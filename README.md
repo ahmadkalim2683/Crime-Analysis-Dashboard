@@ -52,11 +52,6 @@ It is designed for students, analysts, researchers, or public officials looking 
 
 ---
 
-## 📷 Screenshots
-
-> Add one or more screenshots of your dashboard here to showcase the interface and features.
-
----
 
 ## 📌 Notes
 
